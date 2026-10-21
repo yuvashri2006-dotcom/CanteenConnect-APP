@@ -1,0 +1,9 @@
+{
+  "name": "CanteenConnect",
+  "short_name": "CanteenConnect",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#176B45",
+  "theme_color": "#176B45",
+  "description": "CanteenConnect app"
+}
