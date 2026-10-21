@@ -16,6 +16,11 @@ CanteenConnect is an Android application designed to make canteen-related servic
 - **IDE:** Android Studio
 - **Platform:** Android
 
+## 🔮 Future Improvements
+
+- Explore Flutter for cross-platform development.
+- Consider support for iOS in a future version.
+
 ## 🚀 Getting Started
 
 1. Clone or download this repository.
